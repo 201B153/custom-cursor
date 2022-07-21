@@ -1,8 +1,7 @@
-#Custom Cursor asks image and displays them on cursor when cursor points on them
+# Custom-cursor
 
-to make it work in compiler you must have sass enabled as compiler's don't read scss extension.
+- It is simple priciple in which you can make cursor look like anything .
 
-Id CommandLine
-  -- -----------
-   1 npm i -g sass
-   2 sass index.scss index.css
+- You can extend it's effect and turn them into hover effects.
+
+...
